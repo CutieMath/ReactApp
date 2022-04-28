@@ -70,6 +70,11 @@ footer p {
   outline: none;
 }
 
+.note button:hover,
+.note button:focus {
+  color: #9F8BAA;
+}
+
 form.create-note {
   position: relative;
   width: 480px;
@@ -104,4 +109,9 @@ form.create-note button {
   height: 36px;
   cursor: pointer;
   outline: none;
+}
+
+form.create-note button:hover 
+form.create-note button:focus {
+  background: #9F8BAA;
 }
