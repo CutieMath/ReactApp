@@ -61,8 +61,6 @@
     margin-right: 10px;
     color: #D8AAB1;
     border: none;
-    width: 36px;
-    height: 36px;
     cursor: pointer;
     outline: none;
   }
@@ -82,9 +80,12 @@
     border: none;
     padding: 4px;
     outline: none;
-    font-size: 1.2em;
     font-family: inherit;
     resize: none;
+  }
+  form input {
+    font-family: 'Spectral', serif;
+    font-size: 1.2em;
   }
   form button {
     font-family: 'Spectral', serif;
