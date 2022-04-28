@@ -45,11 +45,12 @@
     float: left;
   }
   .note h1 {
-    font-size: 1.1em;
+    font-family: 'Spectral', serif;
+    font-size: 1.2em;
     margin-bottom: 6px;
   }
   .note p {
-    font-size: 1.1em;
+    font-size: 0.7em;
     margin-bottom: 10px;
     white-space: pre-wrap;
     word-wrap: break-word;
